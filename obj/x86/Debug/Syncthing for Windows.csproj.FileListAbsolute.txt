@@ -1,0 +1,30 @@
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\Syncthing for Windows.exe.config
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\Syncthing for Windows.exe
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\Syncthing for Windows.pdb
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\Awesomium.Core.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\awesomium.windows.controls.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\MahApps.Metro.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\Awesomium.Core.xml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\awesomium.windows.controls.xml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\MahApps.Metro.xml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\awesomium.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\icudt.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\avcodec-53.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\avformat-53.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\avutil-51.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\libEGL.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\libGLESv2.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\awesomium_process
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\inspector.pak
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\bin\x86\Debug\xinput9_1_0.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\App.baml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\App.g.cs
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\Syncthing for Windows_MarkupCompile.cache
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\Syncthing for Windows.g.resources
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\Syncthing4Windows.Properties.Resources.resources
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\Syncthing for Windows.csproj.GenerateResource.Cache
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\Syncthing for Windows.exe
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\x86\Debug\Syncthing for Windows.pdb
