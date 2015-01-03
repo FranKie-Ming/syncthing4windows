@@ -1,0 +1,32 @@
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\Syncthing for Windows.exe.config
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\Syncthing for Windows.exe
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\Syncthing for Windows.pdb
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\Awesomium.Core.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\awesomium.windows.controls.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\MahApps.Metro.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\Awesomium.Core.xml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\awesomium.windows.controls.xml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\MahApps.Metro.xml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\awesomium.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\icudt.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\avcodec-53.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\avformat-53.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\avutil-51.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\libEGL.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\libGLESv2.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\awesomium_process
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\inspector.pak
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\xinput9_1_0.dll
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\Syncthing for Windows.csprojResolveAssemblyReference.cache
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\MainWindow.baml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\App.baml
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\MainWindow.g.cs
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\App.g.cs
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\Syncthing for Windows_MarkupCompile.cache
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\Syncthing for Windows.g.resources
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\Syncthing4Windows.Properties.Resources.resources
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\Syncthing for Windows.csproj.GenerateResource.Cache
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\Syncthing for Windows.exe
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\obj\Debug\Syncthing for Windows.pdb
+C:\Users\Audrius\Documents\Visual Studio 2012\Projects\syncthing4windows\bin\Debug\MahApps.Metro.Resources.dll
